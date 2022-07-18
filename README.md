@@ -1,17 +1,43 @@
-## Oi, sou o Rafael Drigo!
-<div align="center">
-  <a href="https://github.com/RDrigoS">
-  <img height="227em" src="https://github-readme-stats.vercel.app/api?username=rdrigos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdrigos&layout=compact&langs_count=7&theme=dark"/>
+<h1 align="left">Olá, Sou o Rafael Drigo!</h1>
+
+###
+
+<h3 align="left">Conecte-se Comigo nas Redes Socias:</h3>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/rafaeldrigo/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:rafaeldrigo@outlook.com.br" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  <a href="https://www.instagram.com/r.drigos/?hl=pt-br" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+###
+
+<h3 align="left">Minhas Habilidades:</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
 </div>
-  
-  ##
-  
-<div> 
-  <a href="https://www.instagram.com/r.drigos/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:contato.rafaeldrigo@outlook.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafael-cristian-drigo-911857226/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+###
+
+<h3 align="left">Estou Estudando:</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="52" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" width="52" alt="amazonwebservices logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" width="52" alt="azure logo"  />
 </div>
